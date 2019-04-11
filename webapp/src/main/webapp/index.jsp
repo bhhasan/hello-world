@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, Welcome to Tripworld !!! </h1>
 
 <h2> Bye !!! </h2>
 
